@@ -31,5 +31,5 @@ Kolawole works as a Software Engineer for ALAT by Wema, where he builds and main
 #### Currently working at:
 
 - [Software Engineer @ ALAT By Wema](https://alat.ng/)
-- [Founding Frontend Engineer @ Nezz](https://www.nezzapp.com/) (Contract)
+- [Founding Frontend Engineer @ Nezz](https://www.nezzapp.com/)
 
