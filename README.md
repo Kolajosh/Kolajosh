@@ -9,7 +9,7 @@
 Kolawole works as a Software Engineer for ALAT by Wema, where he builds and maintain awesoome banking tech features. </b></p>
 
 
-- 🤔 Find out about my job experiences https://www.linkedin.com/in/gospel-chinyereugo/](https://www.linkedin.com/in/kolawole-ayoola-264118186/
+- 🤔 Find out about my job experiences https://www.linkedin.com/in/kolawole-ayoola-264118186
 - 🥳 Take a peep at my portfolio https://kolawolejosh.vercel.app
 - 😇 I write too https://medium.com/@kjosh344
 
