@@ -2,11 +2,11 @@
 
 <h1 align="center">Hi there 👋, I'm Kolawole</h1>
 
-<p align="center"><b>Over 3 years of experience as a Software developer (Front-end heavy) spanning banking/fin-tech, e-commerce, consulting, web3 and more. Involved in product architecture and development, testing, advocacy, and problem solving.
+<p align="center"><b>Over 5 years of experience as a Software developer spanning banking/fin-tech, e-commerce, consulting, web3 and more. Involved in product architecture and development, testing, advocacy, and problem solving.
  
 <br/><br/>
  
-Kolawole works as a Software Engineer for ALAT by Wema, where he builds and maintain awesoome banking tech features. </b></p>
+Kolawole works as a Software Engineer for Moniepoint Group, where he builds and maintain awesome banking tech features. </b></p>
 
 
 - 🤔 Find out about my job experiences https://www.linkedin.com/in/kolawole-ayoola-264118186
@@ -30,6 +30,7 @@ Kolawole works as a Software Engineer for ALAT by Wema, where he builds and main
 
 #### Currently working at:
 
+- [Software Engineer @ Moniepoint](https://moniepoint.com/ng/business)
 - [Software Engineer @ ALAT By Wema](https://alat.ng/)
 - [Founding Frontend Engineer @ Nezz](https://www.nezzapp.com/)
 
